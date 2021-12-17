@@ -16,6 +16,7 @@ To grab a copy of the sample code, you can download the zip or clone it locally:
 
 **Prerequisites**
 
+
 - An Auth0 account
 - .NET Core SDK
 - Visual Studio 2017 (Update 15.3 or later) or Visual Studio Code
